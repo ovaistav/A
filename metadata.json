@@ -1,0 +1,6 @@
+{
+  "name": "Structurizr C4",
+  "description": "An offline native C4 architecture modeling tool inspired by Structurizr",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
